@@ -1,0 +1,3 @@
+2. ATS OPTIMIZATION:
+   - List 3-5 specific keywords from the "Missing" list to add.
+   - Suggest where to place them (e.g., "Add 'Docker' to your Skills section").

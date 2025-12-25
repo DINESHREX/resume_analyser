@@ -1,0 +1,14 @@
+{
+    "ai_automation_engineer": [
+        "python", "openai", "llm", "langchain", "automation", "api", "fastapi"
+    ],
+    "python_backend_developer": [
+        "python", "django", "fastapi", "postgresql", "docker", "redis", "aws"
+    ],
+    "frontend_developer": [
+        "javascript", "react", "typescript", "html", "css", "redux", "node.js"
+    ],
+    "generic_software_engineer": [
+        "git", "agile", "sql", "problem solving", "communication", "debugging"
+    ]
+}

@@ -1,0 +1,17 @@
+3. RESUME REWRITE:
+   - Pick the 2 weakest bullet points from the resume (or generic ones).
+   - Rewrite them to be stronger and include the missing keywords.
+   - Use "Action Verbs" and "Metrics".
+
+OUTPUT FORMAT:
+Return a valid JSON object matching this structure (do not add Markdown backticks):
+{
+  "summary_explanation": "...",
+  "ats_suggestions": ["...", "...", "..."],
+  "rewritten_bullets": ["Old: ... -> New: ...", "..."]
+}
+
+STRICT RULES:
+- Do NOT make up facts.
+- Do NOT say "I calculated this". Say "The system detected...".
+- Keep it professional and concise.

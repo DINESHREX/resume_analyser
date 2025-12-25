@@ -1,0 +1,11 @@
+[
+  "python", "java", "javascript", "typescript", "c++", "c#", "go", "rust", "swift",
+  "react", "angular", "vue", "next.js", "node.js", "django", "fastapi", "flask", "springboot",
+  "aws", "azure", "gcp", "docker", "kubernetes", "jenkins", "terraform", "ansible",
+  "sql", "mysql", "postgresql", "mongodb", "redis", "elasticsearch",
+  "git", "github", "gitlab", "jira", "agile", "scrum",
+  "machine learning", "deep learning", "nlp", "computer vision", "tensorflow", "pytorch",
+  "pandas", "numpy", "scikit-learn", "keras", "spacy", "nltk", "opencv",
+  "linux", "bash", "shell scripting", "rest api", "graphql", "grpc",
+  "microservices", "distributed systems", "system design", "cloud computing"
+]
